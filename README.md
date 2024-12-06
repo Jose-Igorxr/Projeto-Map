@@ -1,7 +1,7 @@
 # Projeto Locação de Garagem
 
 - Descrição do projeto
-  Projeto de locação de garagens buscar atender e resolver um problema gerado nas cidades e encontrado diariamente em nosso cotidiano, que seria a busca por garagem de forma fácil, rápida e acessível.
+  - Projeto de locação de garagens buscar atender e resolver um problema gerado nas cidades e encontrado diariamente em nosso cotidiano, que seria a busca por garagem de forma fácil, rápida e acessível.
 
   - Contexto:
   O aumento da urbanização gera alta demanda por vagas de garagem, enquanto muitos espaços ociosos, como garagens residenciais e comerciais, permanecem subutilizados.
