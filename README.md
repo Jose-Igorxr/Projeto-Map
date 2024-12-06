@@ -36,6 +36,9 @@
   - Manutenibilidade e Portabilidade: Código modular e documentado, compatível com diferentes dispositivos e sistemas operacionais.
   - Segurança: Proteção de dados sensíveis e transações financeiras.
 
-- Padrão de projeto usado:
-    - 
+- Padrão de projeto usado
+  -.
+
+- Mecânica de refatoração
+  -.
     
