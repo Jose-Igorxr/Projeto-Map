@@ -21,7 +21,7 @@
 
 - Benefícios
 
-  -Praticidade, segurança e otimização de espaços, gerando renda extra para locadores e acessibilidade para locatários.
+  - Praticidade, segurança e otimização de espaços, gerando renda extra para locadores e acessibilidade para locatários.
 
 - Requisitos funcionais
 
